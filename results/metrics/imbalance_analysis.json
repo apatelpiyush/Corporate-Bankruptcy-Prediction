@@ -1,0 +1,7 @@
+{
+  "minority_class": "Bankrupt",
+  "minority_count": 2083,
+  "majority_count": 40921,
+  "imbalance_ratio": 19.645223235717715,
+  "strategy": "class_weight"
+}

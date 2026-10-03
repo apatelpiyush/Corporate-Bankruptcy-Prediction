@@ -1,0 +1,19 @@
+{
+  "rows": 43405,
+  "features": 65,
+  "class_counts": {
+    "Non-Bankrupt": 41314,
+    "Bankrupt": 2091
+  },
+  "total_missing": 41322,
+  "infinite_values": 0,
+  "duplicate_rows_full": 401,
+  "duplicate_rows_features_only": 401,
+  "constant_features": [],
+  "near_constant_features": [],
+  "outlier_median_share": 0.09789194793226587,
+  "outlier_features_per_row_by_class": {
+    "Non-Bankrupt": 6.2452437430411,
+    "Bankrupt": 9.069823051171689
+  }
+}

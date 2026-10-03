@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+Non-Bankrupt       0.99      0.98      0.99      8184
+    Bankrupt       0.71      0.71      0.71       417
+
+    accuracy                           0.97      8601
+   macro avg       0.85      0.85      0.85      8601
+weighted avg       0.97      0.97      0.97      8601
